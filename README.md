@@ -39,13 +39,13 @@ mongoose`
 ## Installation
 Install this on your machine as a global dependency using following command:
 ```bash
-npm i -g graphql-express-boilerplate
+npm i -g graphql-express-app
 ```
 
 ## How to use it?
 
 ```bash
-$ graphql-express-boilerplate
+$ graphql-express-app
 ```
 ### Flags:
 - `--yes` | `-y`: Skip Prompts and initialize default project
