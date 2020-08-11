@@ -1,4 +1,4 @@
-# graphql-express-app
+# Graphql Express App
 
 <h2 align="center">CLI to Generate GraphQL-Express Boilerplate Application</h2>
 
@@ -14,7 +14,8 @@
 </a>
 </p>
 
-![App Demo](demo/demo.gif)
+<img align="center" alt="example transformation" src="demo/demo.gif" />
+
 
 ## About
 A command line tool to generate a GraphQL-Express app. 
