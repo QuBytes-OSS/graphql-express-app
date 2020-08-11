@@ -12,9 +12,10 @@
 <a href="https://www.npmjs.com/package/graphql-express-app">
 <img alt="CLI" src="https://img.shields.io/badge/npm%20package-0.0.1-brightgreen">
 </a>
+<img align="center" alt="example transformation" src="demo/demo.gif" />
 </p>
 
-<img align="center" alt="example transformation" src="demo/demo.gif" />
+
 
 
 ## About
