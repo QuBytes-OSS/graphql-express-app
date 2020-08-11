@@ -10,7 +10,7 @@ It uses npm for installation and can be installed on macOs, Linux and Windows ma
 This CLI tool will generate a GraphQL-Express App to help you start implementing your backend using GraphQL.
 
 ## Why use this CLI?
-Starting a new project requires almost same file structure and configuration everytime. This led me to start this project; to make it easy to initialize any new project that needs GraphQL and Express middleware. 
+Starting a new project requires almost same file structure and configuration everytime. This led me to start this project; making it easy to initialize any new project that needs GraphQL and Express middleware. 
 
 ### Libraries: 
 This CLI tool uses following libraries to generate and run project files:
@@ -26,6 +26,9 @@ mongoose`
 - [`Node.js`](https://nodejs.org/en/)
 - npm
 - Make sure to have a MongoDB Database installed on your local system or an online instance.
+
+### Mongoose Config:
+- Make sure to update the MongoDB URI in the .env file depending on your needs.
 
 
 ## Disclaimer
@@ -51,3 +54,10 @@ $ graphql-express-boilerplate
 
 ## TypeScript
 I have not yet configured TypeScript but will work on it soon and hopefully include it in the next release.
+
+
+## Contributing
+Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
