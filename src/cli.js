@@ -1,5 +1,6 @@
 import arg from 'arg'
 import inquirer from 'inquirer'
+import { createProject } from './main'
 
 function parseArgumentsToOptions(rawargs) {
     const args = arg(
@@ -38,13 +39,13 @@ async function promptForMissingOptions(options) {
         questions.push({
             type: 'list',
             name: 'template',
-            message: 'Please choose which project template to use',
+            message: 'Please choose default language for your project:',
             choices: ['JavaScript', 'TypeScript'],
             default: defaultTemplate,
         })
     }
 
-    if(!options.git){
+    if (!options.git) {
         questions.push({
             type: 'confirm',
             name: 'git',
@@ -64,5 +65,5 @@ async function promptForMissingOptions(options) {
 export async function cli(args) {
     let options = parseArgumentsToOptions(args)
     options = await promptForMissingOptions(options)
-    console.log(options)
+    await createProject(options)
 }
