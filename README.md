@@ -1,6 +1,20 @@
 # graphql-express-app
 
-[![file structure: destiny](https://img.shields.io/badge/CLI-graphql--express--app-blue)](https://github.com/yashgkar/graphql-express-boilerplate)
+<h2 align="center">CLI to Generate GraphQL-Express Boilerplate Application</h2>
+
+<p align="center">
+<a href="https://github.com/yashgkar/graphql-express-boilerplate">
+<img alt="CLI" src="https://img.shields.io/badge/CLI-graphql--express--app-blue">
+</a>
+<a href="https://github.com/yashgkar">
+<img alt="CLI" src="https://img.shields.io/badge/Author-yashgkar-orange">
+</a>
+<a href="https://www.npmjs.com/package/graphql-express-app">
+<img alt="CLI" src="https://img.shields.io/badge/npm%20package-0.0.1-brightgreen">
+</a>
+</p>
+
+![App Demo](demo/demo.gif)
 
 ## About
 A command line tool to generate a GraphQL-Express app. 
