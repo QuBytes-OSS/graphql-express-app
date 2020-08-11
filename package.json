@@ -4,8 +4,8 @@
   "description": "A CLI to bootstrap GraphQL-Express Projects",
   "main": "src/index.js",
   "bin": {
-    "@yashgkar/graphql-express-boilerplate": "bin/graphql-express-boilerplate",
-    "graphql-express-boilerplate": "bin/graphql-express-boilerplate"
+    "@yashgkar/graphql-express-app": "bin/graphql-express-app",
+    "graphql-express-app": "bin/graphql-express-app"
   },
   "publishConfig": {
     "access": "public"
@@ -15,7 +15,7 @@
   },
   "keywords": [
     "cli",
-    "graphql-express-boilerplate",
+    "graphql-express-app",
     "graphql",
     "express"
   ],
