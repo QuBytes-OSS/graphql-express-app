@@ -3,7 +3,7 @@
 <h2 align="center">CLI to Generate GraphQL-Express Boilerplate Application</h2>
 
 <p align="center">
-<a href="https://github.com/yashgkar/graphql-express-boilerplate">
+<a href="https://github.com/QuBytes-OSS/graphql-express-app">
 <img alt="CLI" src="https://img.shields.io/badge/CLI-graphql--express--app-blue">
 </a>
 <a href="https://github.com/yashgkar">
