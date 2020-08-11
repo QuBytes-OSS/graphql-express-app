@@ -63,7 +63,7 @@ export async function createProject(options) {
                 cwd: options.targetDirectory,
             }),
             skip: () => !options.runInstall
-                ? 'Next time, pass --install to automatically install project dependencies'
+                ? 'Next time, pass --install to automatically install project dependencies using npm'
                 : undefined,
         }
     ])

@@ -27,17 +27,22 @@ mongoose`
 - npm
 - Make sure to have a MongoDB Database installed on your local system or an online instance.
 
+
+## Disclaimer
+- This is a work in progress and 100% has bugs in it.
+- Currently only configured for JavaScript, TypeScript coming soon <3.
+- Note: Nothing will be added if you choose TypeScript in the CLI. 
+
 ## Installation
 Install this on your machine as a global dependency using following command:
 ```bash
 npm i -g graphql-express-boilerplate
 ```
 
-## Usage
-To generate a graphql-express-boilerplate use following command in your project folder.
+## How to use it?
 
 ```bash
-graphql-express-boilerplate
+$ graphql-express-boilerplate
 ```
 ### Flags:
 - `--yes` | `-y`: Skip Prompts and initialize default project
