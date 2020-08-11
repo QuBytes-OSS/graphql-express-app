@@ -10,9 +10,9 @@
 <img alt="CLI" src="https://img.shields.io/badge/Author-yashgkar-orange">
 </a>
 <a href="https://www.npmjs.com/package/graphql-express-app">
-<img alt="CLI" src="https://img.shields.io/badge/npm%20package-0.0.3-brightgreen">
+<img alt="CLI" src="https://img.shields.io/badge/npm%20package-0.0.4-brightgreen">
 </a>
-<img align="center" alt="example transformation" src="demo/demo.gif" />
+<img align="center" alt="example transformation" src="https://i.imgur.com/gJ6tvFw.gif" />
 </p>
 
 
